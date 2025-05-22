@@ -1,4 +1,8 @@
 # 👋 Ramzel's here!
+
+![snake gif](https://github.com/ramzell/ramzell/blob/output/github-snake-dark.svg)
+
+
  :technologist: A Software Engineer that also wants to know about our purpose in life.<br/>
 👩🏻‍🎓 Studied Information Tech at Enverga University in the Philippines.<br/>
 :man_scientist: Just trying to know more about our world or should we migrate to another planet?<br/>
@@ -27,6 +31,4 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![snake gif](https://github.com/ramzell/ramzell/blob/output/github-snake-dark.svg)
 
